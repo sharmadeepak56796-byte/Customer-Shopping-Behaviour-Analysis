@@ -91,7 +91,7 @@ The objective is to help businesses understand customer preferences and make dat
 
 ## 📷 Dashboard Preview
 
-<img width="100%" alt="Customer Shopping Behaviour Dashboard" src="CSB Dashboard.png">
+<img width="1370" height="792" alt="CSB Dashboard" src="https://github.com/user-attachments/assets/c91d1bf0-a724-4c8a-918a-968352ce0a4e" />
 
 ---
 
